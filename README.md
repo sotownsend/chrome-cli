@@ -1,6 +1,7 @@
 chrome-cli
 ==========
 
+Forked, uses Chrome Canary instead of chrome.
 
 ## Overview
 chrome-cli is a command line utility for controlling Google Chrome on OS X.
